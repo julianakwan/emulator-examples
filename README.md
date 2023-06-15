@@ -1,4 +1,4 @@
-# emulator-examples
+# Example code for emulation
 A repository for example codes to do Gaussian Process regression
 
 
